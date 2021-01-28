@@ -279,6 +279,11 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Sphere
       objectReference: {fileID: 0}
+    - target: {fileID: 7514358545457219909, guid: 2f38c85eaf2202f4381b4d7c8e02c1f9,
+        type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7514358545457219912, guid: 2f38c85eaf2202f4381b4d7c8e02c1f9,
         type: 3}
       propertyPath: m_Mass
@@ -830,7 +835,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0.10493605, y: -0.103639156, z: -0.011172903, w: 0.9890008}
-  m_LocalPosition: {x: 459.15, y: 7.19, z: 327.38}
+  m_LocalPosition: {x: 470.8, y: 17.7, z: 261.8}
   m_LocalScale: {x: 1.9523, y: 1.9523, z: 1.7648206}
   m_Children: []
   m_Father: {fileID: 0}
@@ -942,7 +947,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1055369491}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 470.36, y: 4.14, z: 357.56}
+  m_LocalPosition: {x: 470.36, y: 4.95, z: 357.56}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
